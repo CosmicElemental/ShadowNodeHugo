@@ -5,7 +5,7 @@ author: Cosmic
 
 # Restarts
 
-##### All restarts are in the Eastern Standard Time Zone (EST). If you need to figure out what the restarts are in your time zone click on the times to get a time zone conversion. If it says AM/PM, the time you get from the conversion will also be AM/PM.
+##### All restarts are in the Eastern Standard Time Zone (EST). If you need to figure out what the restarts are in your time zone click on the times to get a time zone conversion.
 
 ## All the Mods 3 Expert
 
